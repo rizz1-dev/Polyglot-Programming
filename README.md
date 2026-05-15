@@ -92,41 +92,55 @@ The goal is to understand the syntax, paradigms, tooling, and real-world develop
 ```bash
 polyglot-programming/
 │
-├── assembly/
-├── c/
-├── cpp/
-├── rust/
-├── ruby/
-├── r/
-├── python/
-│   ├── flask/
-│   └── django/
+├── low-level-systems/
+│   ├── assembly/
+│   ├── c/
+│   ├── cpp/
+│   ├── rust/
+│   └── go/
 │
-├── javascript/
-│   ├── nodejs/
-│   ├── express/
-│   ├── react/
-│   ├── vue/
-│   ├── angular/
-│   └── nextjs/
+├── backend-development/
+│   ├── python/
+│   │   ├── django/
+│   │   └── flask/
+│   │
+│   ├── javascript/
+│   │   ├── nodejs/
+│   │   └── expressjs/
+│   │
+│   ├── php/
+│   │   ├── laravel/
+│   │   └── symfony/
+│   │
+│   ├── java/
+│   │   └── spring-boot/
+│   │
+│   └── csharp/
+│       └── aspnet/
 │
-├── php/
-│   ├── laravel/
-│   └── symfony/
+├── frontend-development/
+│   └── javascript/
+│       ├── react/
+│       ├── vue/
+│       ├── angular/
+│       └── nextjs/
 │
-├── java/
-│   ├── spring/
-│   └── kotlin/
+├── mobile-cross-platform/
+│   ├── dart/
+│   │   └── flutter/
+│   │
+│   ├── kotlin/
+│   │   └── cross-platform/
+│   │
+│   ├── csharp-fsharp/
+│   │   └── dotnet-maui/
+│   │
+│   └── swift/
 │
-├── dart/
-│   └── flutter/
-│
-├── csharp/
-│   ├── aspnet/
-│   └── maui/
-│
-├── swift/
-├── go/
+├── scripting-data-functional/
+│   ├── ruby/
+│   ├── r/
+│   └── fsharp/
 │
 └── README.md
 ```
